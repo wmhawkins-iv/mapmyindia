@@ -1,6 +1,4 @@
-# mapmyindia
-
-Street sign object detection and image classificaction.
+# mapmyindia - Street Sign Object Detection and Image Classification
 
 Built multi-target CNN model to classify and detect bounding boxes of street signs using MapMyIndia’s StreetView image dataset.
 
